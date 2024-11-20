@@ -3,7 +3,7 @@ import 'aos/dist/aos.css';
 import car from '../assets/car.png'
 import flight from '../assets/flight.png' 
 import red from '../assets/rope.png'
-import brand from '../assets/brand.png'
+import brand from '../assets/Brand.png'
 import 'aos/dist/aos.css';
 
 
